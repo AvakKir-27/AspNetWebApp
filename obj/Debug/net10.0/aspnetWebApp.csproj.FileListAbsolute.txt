@@ -1,0 +1,291 @@
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\appsettings.json
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.staticwebassets.runtime.json
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.staticwebassets.endpoints.json
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.exe
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.deps.json
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.runtimeconfig.json
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.dll
+C:\Users\Teacher\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.pdb
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.AssemblyInfoInputs.cache
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.AssemblyInfo.cs
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.RazorAssemblyInfo.cache
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.RazorAssemblyInfo.cs
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\scopedcss\bundle\aspnetWebApp.styles.css
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\scopedcss\projectbundle\aspnetWebApp.bundle.scp.css
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ewtddk668o-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\gpfv6wmni9-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\vy8v8igqa2-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\3j55ypzka0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\jtsdmxysmy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\v8i1ombcsv-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\o2hrpy4yxr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\y4et6bmp1j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\98rwhvu294-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\s11nx8thob-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\466buw1z9q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\8lh39rizip-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\sb5oh3po5n-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\7f290skmw3-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\v726cag2gv-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\1m912uzs3f-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\e2lz9dxrck-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\0dxk1nsz22-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\iqyurk77cs-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\klad1m4dzo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\twb5b01c9f-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\r7ypdb9cbr-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\6q6ho0ab6j-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ged4scw9ew-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\hro4s8pfrv-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ccchlb06jd-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\43ui43vvqe-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\zbwcl1whfb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\xvhan61fq6-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\9ryn3wxwqz-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\vg4mnx0g1k-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ly65mk094m-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\6jktsyl9h0-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\278hlbnjk3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\5n71uurgjj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ver1xuq6at-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\yb1im2vihy-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ti7ybs01xy-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\btqpu44rzc-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\9cqvd52lh0-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\1xdf4pva81-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\nb7y5nie8a-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\g9nb9bak7h-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\y4noczsd1m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\bz99oty8qk-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\kphgav8av3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\lvnq21owkn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ujbga4u605-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\b57p7g0ljn-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\0ax0zm9x1w-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\dblmq1tcgc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\4a1vf2bel9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\wq84pi0h0z-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\mqo42xeelp-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\zjzj1oqk4d-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\fr508m44w7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\fyyi3qy46x-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\xl3vgum7ib-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\n5jl80c5lo-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\youeaqtlmv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\crqfgm9f1a-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.dll
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\refint\aspnetWebApp.dll
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.pdb
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.genruntimeconfig.cache
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\ref\aspnetWebApp.dll
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\ya761pcgnd-{0}-rwfqbo55br-rwfqbo55br.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\icsgclpo1u-{0}-rwfqbo55br-rwfqbo55br.gz
+C:\Users\Teacher\aspnetWebApp\obj\Debug\net10.0\compressed\2v9ug8irji-{0}-p3jte8atwu-p3jte8atwu.gz
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\appsettings.json
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.staticwebassets.runtime.json
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.staticwebassets.endpoints.json
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.exe
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.deps.json
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.runtimeconfig.json
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.dll
+C:\Users\teacher\Desktop\aspnetWebApp\bin\Debug\net10.0\aspnetWebApp.pdb
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.AssemblyInfoInputs.cache
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.AssemblyInfo.cs
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.csproj.CoreCompileInputs.cache
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.RazorAssemblyInfo.cache
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.RazorAssemblyInfo.cs
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\scopedcss\bundle\aspnetWebApp.styles.css
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\scopedcss\projectbundle\aspnetWebApp.bundle.scp.css
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ewtddk668o-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\gpfv6wmni9-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\vy8v8igqa2-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\3j55ypzka0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\jtsdmxysmy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\v8i1ombcsv-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\o2hrpy4yxr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\y4et6bmp1j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\98rwhvu294-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\s11nx8thob-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\466buw1z9q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\8lh39rizip-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\sb5oh3po5n-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\7f290skmw3-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\v726cag2gv-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\1m912uzs3f-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\e2lz9dxrck-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\0dxk1nsz22-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\iqyurk77cs-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\klad1m4dzo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\twb5b01c9f-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\r7ypdb9cbr-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\6q6ho0ab6j-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ged4scw9ew-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\hro4s8pfrv-{0}-06098lyss8-06098lyss8.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ccchlb06jd-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\43ui43vvqe-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\zbwcl1whfb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\xvhan61fq6-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\9ryn3wxwqz-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\vg4mnx0g1k-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ly65mk094m-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\6jktsyl9h0-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\278hlbnjk3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\5n71uurgjj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ver1xuq6at-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\yb1im2vihy-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ti7ybs01xy-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\btqpu44rzc-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\9cqvd52lh0-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\1xdf4pva81-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\nb7y5nie8a-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\g9nb9bak7h-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\y4noczsd1m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\bz99oty8qk-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\kphgav8av3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\lvnq21owkn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ujbga4u605-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\b57p7g0ljn-{0}-356vix0kms-356vix0kms.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\0ax0zm9x1w-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\dblmq1tcgc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\4a1vf2bel9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\wq84pi0h0z-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\mqo42xeelp-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\zjzj1oqk4d-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\fr508m44w7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\fyyi3qy46x-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\xl3vgum7ib-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\n5jl80c5lo-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\youeaqtlmv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\crqfgm9f1a-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\ya761pcgnd-{0}-rwfqbo55br-rwfqbo55br.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\icsgclpo1u-{0}-rwfqbo55br-rwfqbo55br.gz
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.dll
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\refint\aspnetWebApp.dll
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.pdb
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\aspnetWebApp.genruntimeconfig.cache
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\ref\aspnetWebApp.dll
+C:\Users\teacher\Desktop\aspnetWebApp\obj\Debug\net10.0\compressed\2v9ug8irji-{0}-gnwncmguws-gnwncmguws.gz
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\appsettings.json
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\aspnetWebApp.staticwebassets.runtime.json
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\aspnetWebApp.staticwebassets.endpoints.json
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\aspnetWebApp.exe
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\aspnetWebApp.deps.json
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\aspnetWebApp.runtimeconfig.json
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\aspnetWebApp.dll
+C:\Users\106010133\aspnetWebApp (v3)\bin\Debug\net10.0\aspnetWebApp.pdb
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.AssemblyInfoInputs.cache
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.AssemblyInfo.cs
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.csproj.CoreCompileInputs.cache
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.RazorAssemblyInfo.cache
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.RazorAssemblyInfo.cs
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\scopedcss\bundle\aspnetWebApp.styles.css
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\scopedcss\projectbundle\aspnetWebApp.bundle.scp.css
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ewtddk668o-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\gpfv6wmni9-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\vy8v8igqa2-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\3j55ypzka0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\jtsdmxysmy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\v8i1ombcsv-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\o2hrpy4yxr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\y4et6bmp1j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\98rwhvu294-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\s11nx8thob-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\466buw1z9q-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\8lh39rizip-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\sb5oh3po5n-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\7f290skmw3-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\v726cag2gv-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\1m912uzs3f-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\e2lz9dxrck-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\0dxk1nsz22-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\iqyurk77cs-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\klad1m4dzo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\twb5b01c9f-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\r7ypdb9cbr-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\6q6ho0ab6j-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ged4scw9ew-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\hro4s8pfrv-{0}-06098lyss8-06098lyss8.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ccchlb06jd-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\43ui43vvqe-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\zbwcl1whfb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\xvhan61fq6-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\9ryn3wxwqz-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\vg4mnx0g1k-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ly65mk094m-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\6jktsyl9h0-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\278hlbnjk3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\5n71uurgjj-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ver1xuq6at-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\yb1im2vihy-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ti7ybs01xy-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\btqpu44rzc-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\9cqvd52lh0-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\1xdf4pva81-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\nb7y5nie8a-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\g9nb9bak7h-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\y4noczsd1m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\bz99oty8qk-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\kphgav8av3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\lvnq21owkn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ujbga4u605-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\b57p7g0ljn-{0}-356vix0kms-356vix0kms.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\0ax0zm9x1w-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\dblmq1tcgc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\4a1vf2bel9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\wq84pi0h0z-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\mqo42xeelp-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\zjzj1oqk4d-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\fr508m44w7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\fyyi3qy46x-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\xl3vgum7ib-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\n5jl80c5lo-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\youeaqtlmv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\crqfgm9f1a-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\ya761pcgnd-{0}-rwfqbo55br-rwfqbo55br.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\icsgclpo1u-{0}-rwfqbo55br-rwfqbo55br.gz
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.dll
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\refint\aspnetWebApp.dll
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.pdb
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\aspnetWebApp.genruntimeconfig.cache
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\ref\aspnetWebApp.dll
+C:\Users\106010133\aspnetWebApp (v3)\obj\Debug\net10.0\compressed\2v9ug8irji-{0}-gz2cah56qc-gz2cah56qc.gz
