@@ -103,11 +103,25 @@ cursor: pointer;
 background: #0056b3;
 }
 
-.result {
+/* .result {
 margin-top: 25px;
 padding: 20px;
-background: #a3a2a2af;
+background: #f8f1c3af;
 border-radius: 12px;
 text-align: left;
 white-space: pre-line;
+} */
+
+.student-card {
+    display: none;
+    margin-top: 25px;
+padding: 20px;
+background: #6696fc;
+border-radius: 12px;
+box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+text-align: left;
+
+}
+.student-card-header {
+    margin-bottom: 20px;
 }

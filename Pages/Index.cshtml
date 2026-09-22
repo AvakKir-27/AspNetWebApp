@@ -152,8 +152,57 @@
 
     </form>
 
-    <div id="result" class="result">
-
+    <div id="result" class="student-card">
+        <div>
+            <h2>Анкета отправлена</h2>
+            <p>Данные студента:</p>
+        </div>
+        <div class="student-info">
+            <div class="info-item">
+                <span>Имя</span>
+                <strong id="result-name"></strong>
+            </div>
+            <div class="info-item">
+                <span>Номер телефона</span>
+                <strong id="result-phone"></strong>
+            </div>
+            <div class="info-item">
+                <span>Email</span>
+                <strong id="result-email"></strong>
+            </div>
+            <div class="info-item">
+                <span>Город</span>
+                <strong id="result-city"></strong>
+            </div>
+            <div class="info-item">
+                <span>Основной язык</span>
+                <strong id="result-mainLanguage"></strong>
+            </div>
+            <div class="info-item">
+                <span>Формат обучения</span>
+                <strong id="result-modeOfStudy"></strong>
+            </div>
+            <div class="info-item">
+                <span>Специальность</span>
+                <strong id="result-speciality"></strong>
+            </div>
+            <div class="info-item">
+                <span>Курс</span>
+                <strong id="result-course"></strong>
+            </div>
+            <div class="info-item">
+                <span>Дата рождения</span>
+                <strong id="result-birthDate"></strong>
+            </div>
+            <div class="info-item">
+                <span>Технологии</span>
+                <strong id="result-technologies"></strong>
+            </div>
+            <div class="info-item">
+                <span>О себе</span>
+                <strong id="result-story"></strong>
+            </div>
+        </div>
     </div>
 
     @if (Model.Message != null)
@@ -184,11 +233,22 @@
             body: formData
         });
 
-        const result = await response.text();
-        @* console.log(result); *@
+        const data = await response.json();
         await new Promise(resolve => setTimeout(resolve, 1000));
-        console.log(result);
-        document.querySelector("#result").textContent = result;
+        document.querySelector("#result-name").textContent = data.Name;
+        document.querySelector("#result-phone").textContent = data.Phone;
+        document.querySelector("#result-email").textContent = data.Email;
+        document.querySelector("#result-city").textContent = data.City;
+        document.querySelector("#result-mainLanguage").textContent = data.MainLanguage;
+        document.querySelector("#result-modeOfStudy").textContent = data.ModeOfStudy;
+        document.querySelector("#result-speciality").textContent = data.Speciality;
+        document.querySelector("#result-course").textContent = data.Course;
+        document.querySelector("#result-birthDate").textContent = data.BirthDate;
+        document.querySelector("#result-technologies").textContent = data.Technologies;
+        document.querySelector("#result-story").textContent = data.Story;
+        console.log(data);
+        // document.querySelector("#result").textContent = data; 
+        document.querySelector("#result").style.display = "block";
         button.disabled = false;
         button.textContent = "Анкета отправлена ((●'◡'●))";
     });
