@@ -1,6 +1,7 @@
 using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using aspnetWebApp.Models;
 
 namespace aspnetWebApp.Pages;
 
@@ -29,6 +30,8 @@ public class IndexModel : PageModel
     [BindProperty]
     public string City {get; set; }
     public string Message { get; set; }
+    public static List<Student> Students {get; set; } = new();
+
     public void OnGet()
     {
         // Message = "Привет! Сообщение от C#";
@@ -51,20 +54,40 @@ public class IndexModel : PageModel
         //         $"Дата рождения: {BirthDate}\n" +
         //         $"Технологии: {technologies}\n" +
         //         $"О себе: {Story}";
-        var student = new {
-            Name,
-            Phone,
-            Email,
-            MainLanguage,
-            ModeOfStudy,
-            Speciality,
-            Course,
-            BirthDate,
-            Technologies,
-            Story,
-            City
+        var student = new Student {
+            Name = Name,
+            Phone = Phone,
+            Email = Email,
+            MainLanguage = MainLanguage,
+            ModeOfStudy = ModeOfStudy,
+            Speciality = Speciality,
+            Course = Course,
+            BirthDate = BirthDate,
+            Technologies = Technologies,
+            Story = Story,
+            City = City
         };
         
-        return Content(JsonSerializer.Serialize(student), "application/json");
+        // return Content(JsonSerializer.Serialize(student), "application/json");
+        Students.Add(student);
+        return new JsonResult(student);
+    }
+
+    public IActionResult OnGetStudents() {
+        return new JsonResult(Students);
+    }
+
+    public IActionResult OnPostDelete(int Id) {
+        var student = Students.FirstOrDefault(x => x.Id == Id);
+        if (student == null) {
+            return new JsonResult(new{
+                success = false,
+                message = "Студент не найден"
+            });
+        }
+        Students.Remove(student);
+        return new JsonResult(new{
+            success = true
+        });
     }
 }

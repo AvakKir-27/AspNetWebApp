@@ -386,4 +386,4 @@ D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\refint\aspnetWebApp.
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\aspnetWebApp.pdb
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\aspnetWebApp.genruntimeconfig.cache
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\ref\aspnetWebApp.dll
-D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\compressed\2v9ug8irji-{0}-sasr002ni6-sasr002ni6.gz
+D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\compressed\2v9ug8irji-{0}-fkxjrne1y1-fkxjrne1y1.gz
