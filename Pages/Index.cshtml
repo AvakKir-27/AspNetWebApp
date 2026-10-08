@@ -17,6 +17,7 @@
     </p>
 
     <form method="post">
+        @Html.AntiForgeryToken()
 
         <div class="form-group">
             <label>Имя-фамилия:</label>
@@ -149,7 +150,7 @@
         <button class="form-button" type="submit">
             Отправить
         </button>
-          <button class="clear-button" type="reset">Очистить</button>
+        <button class="clear-button" type="reset">Очистить</button>
     </form>
 
     <div id="status" class="status"></div>
@@ -217,7 +218,7 @@
             </p>
         </div>
     }
-
+    @* СПИСОК ВСЕХ СТУДЕНТОВ *@
     <div class="students-section">
         <h2>Список студентов</h2>
         <div id="students-list"></div>
@@ -228,12 +229,13 @@
 <script>
     const form = document.querySelector("form");
     const button = form.querySelector("button[type='submit']");
-    const status = document.querySelector("#status")
+    const status = document.querySelector("#status");
+    const studentsList = document.querySelector("#students-list");
+    
     form.addEventListener("submit", async function (event) {
         event.preventDefault();
 
-        const button = form.querySelector("button");
-        button.textContent = "Отправка...";
+        button.textContent = "Отправка..."
         button.disabled = true;
 
         const formData = new FormData(form);
@@ -252,22 +254,28 @@
             console.log(data);
             await new Promise(resolve => setTimeout(resolve, 1500));
 
-            document.querySelector("#result-name").textContent = data.Name;
-            document.querySelector("#result-phone").textContent = data.Phone;
-            document.querySelector("#result-email").textContent = data.Email;
-            document.querySelector("#result-city").textContent = data.City;
-            document.querySelector("#result-mainLanguage").textContent = data.MainLanguage;
-            document.querySelector("#result-modeOfStudy").textContent = data.ModeOfStudy;
-            document.querySelector("#result-speciality").textContent = data.Speciality;
-            document.querySelector("#result-course").textContent = data.Course;
-            document.querySelector("#result-birthDate").textContent = data.BirthDate;
-            document.querySelector("#result-technologies").textContent = data.Technologies;
-            document.querySelector("#result-story").textContent = data.Story;
+            document.querySelector("#result-name").textContent = data.name;
+            document.querySelector("#result-phone").textContent = data.phone;
+            document.querySelector("#result-email").textContent = data.email;
+            document.querySelector("#result-city").textContent = data.city;
+            document.querySelector("#result-mainLanguage").textContent = data.mainLanguage;
+            document.querySelector("#result-modeOfStudy").textContent = data.modeOfStudy;
+            document.querySelector("#result-speciality").textContent = data.speciality;
+            document.querySelector("#result-course").textContent = data.course;
+            document.querySelector("#result-birthDate").textContent = data.birthDate;
+            document.querySelector("#result-technologies").textContent = data.technologies;
+            document.querySelector("#result-story").textContent = data.story;
             
-            console.log(data);
             document.querySelector("#result").style.display = "block";
-            button.textContent = "Анкета отправлена ((●'◡'●))";
+            status.textContent = "Анкета успешно отправлена";
+
+            // @* ОБНОВЛЯЕМ СПИСОК СТУДЕНТОВ *@
+                await loadStudents();
+
+            // @* ОЧИЩАЕМ ФОРМУ *@
+                form.reset();
         } catch (error) {
+            console.error(error)
             status.textContent = "Не удалось отправить анкету";
         } finally {
             button.disabled = false;
@@ -275,17 +283,163 @@
         }
     });
 
+    @* Подгружаем Список студентов *@
     async function loadStudents() {
+        try {
+            const response = await fetch("?handler=Students");
 
+            if(!response.ok) {
+                throw new Error("Ошибка загрузки студентов")
+            };
+
+            const students = await response.json()
+            @* ОЧИЩАЕМ СТАРЫЙ СПИСОК *@
+            studentsList.innerHTML = "";
+            
+            students.forEach(student => {
+                const card = document.createElement("div");
+                card.className = "student-card";
+                card.innerHTML = `
+                    <div class="student-card-header">
+                        <div>
+                            <h2>
+                                ${student.name}
+                            </h2>
+                            <p>
+                                ${student.speciality}
+                            </p>
+                        </div>
+                    </div>
+                    <div class="student-info">
+                        <div class="info-item">
+                            <span>
+                                Телефон: 
+                            </span>
+                            <strong>
+                                ${student.phone}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                Email: 
+                            </span>
+                            <strong>
+                                ${student.email}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                Курс: 
+                            </span>
+                            <strong>
+                                ${student.course}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                Дата рождения: 
+                            </span>
+                            <strong>
+                                ${student.birthDate}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                Технологии: 
+                            </span>
+                            <strong>
+                                ${student.technologies.join(", ")}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                Город: 
+                            </span>
+                            <strong>
+                                ${student.city}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                Форма обучения: 
+                            </span>
+                            <strong>
+                                ${student.modeOfStudy}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                Основной язык: 
+                            </span>
+                            <strong>
+                                ${student.mainLanguage}
+                            </strong>
+                        </div>
+                        <div class="info-item">
+                            <span>
+                                О себе: 
+                            </span>
+                            <strong>
+                                ${student.story}
+                            </strong>
+                        </div>
+                    </div>
+                    <button 
+                        class="delete-button" 
+                        onclick="deleteStudent(${student.id})">
+                        Удалить
+                    </button>
+                    `;
+
+                    studentsList.appendChild(card);
+                
+            });
+        } catch(error) {
+            console.error(error);
+            studentsList.innerHTML = `
+            <div class="result">
+                Не удалось загрузить список студентов
+            </div>
+            `;
+        }
     }
 
-    async function deleteStudent(Id) {
-        
-    }
+    @* Удаление анкеты студентов *@
+    async function deleteStudent(id) {
+        try {
+            const token = document.querySelector(
+                'input[name="__RequestVerificationToken"]'
+                ).value;
+            const response = await fetch("?handler=Delete&id=" + id, {
+                method: "POST",
+                headers: {
+                    "RequestVerificationToken": token
+                }
 
+            });
+
+            if(!response.ok) {
+                throw new Error("Ошибка удаления");
+            }
+
+            const result = await response.json();
+            
+            if(result.success) {
+                status.textContent = "Анкета студента удалена";
+                await loadStudents();
+            }
+
+        } catch(error) {
+            console.error(error);
+            status.textContent = "Не удалось удалить анкету студента";
+        }
+    }
+    @* ОЧИСТКА ФОРМЫ *@
     form.addEventListener("reset", function () {
         document.querySelector('#result').style.display = 'none';
         document.querySelector('#status').textContent = '';
     })
+    @* ЗАГРУЗКА СПИСКА ПРИ ОТКРЫТИИ *@
+        loadStudents();
 
 </script>
