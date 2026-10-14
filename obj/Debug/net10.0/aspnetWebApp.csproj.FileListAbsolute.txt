@@ -414,7 +414,6 @@ D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\rjsmcshtml.dswa.cach
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\scopedcss\bundle\aspnetWebApp.styles.css
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\scopedcss\projectbundle\aspnetWebApp.bundle.scp.css
-D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\compressed\2v9ug8irji-{0}-4pi35nceg1-4pi35nceg1.gz
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\compressed\ewtddk668o-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\compressed\gpfv6wmni9-{0}-fr7q2aak1r-fr7q2aak1r.gz
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\compressed\vy8v8igqa2-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -488,3 +487,4 @@ D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\refint\aspnetWebApp.
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\aspnetWebApp.pdb
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\aspnetWebApp.genruntimeconfig.cache
 D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\ref\aspnetWebApp.dll
+D:\Документы\GitHub\AspNetWebApp\obj\Debug\net10.0\compressed\2v9ug8irji-{0}-v61cnvvrbu-v61cnvvrbu.gz
