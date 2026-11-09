@@ -1,4 +1,9 @@
 /* ОБЩИЕ СТИЛИ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 html {
     min-height: 100%;
    }
@@ -61,6 +66,7 @@ site-main {
 .site-nav a:hover {
     color: #3563e9;
 }
+
 /* FOOTER */
 .site-footer {
     margin-top: 60px;
@@ -114,8 +120,318 @@ site-main {
     } 
 }
 
-/* ФОРМА */
+/* ГЛАВНАЯ СТРАНИЦА */
 
+.home-page, .resumes-page  {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.home-hero {
+    padding: 70px 45px;
+    background: #171717;
+    color: white;
+    border-radius: 24px;
+}
+
+.home-label {
+    color: #9caeff;
+    font-size: 13px; 
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+.home-page h1 {
+    max-width: 700px;
+    margin: 20px 0;
+    font-size: 32px;
+    line-height: 1.1;
+}
+
+.home-description {
+    color: #d0d0d0;
+    max-width: 600px;
+    line-height: 1.7;
+}
+
+.home-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 30px;
+}
+
+.home-button {
+    display: inline-block;
+    padding: 13px 20px;
+    border: 1px solid #171717;
+    border-radius: 10px;
+    background: #fff;
+    color: #171717;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.home-button:hover {
+    opacity: 0.75;
+    transition: 300ms;
+}
+
+.home-button-secondary {
+    border-color: #777;
+    background: transparent;
+    color: white;
+}
+
+.home-features {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+    margin-top: 24px;
+}
+
+.home-feature {
+    padding: 24px;
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    background: #fff;
+}
+
+.home-features h2 {
+    font-size: 18px;
+}
+
+.home-feature p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* СОЗДАТЬ РЕЗЮМЕ */
+
+.resumes-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.resumes-heading h1 {
+    margin: 10px 0;
+}
+
+.resumes-count {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.resumes-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minimax(0, 1fr));
+    gap: 20px;
+}
+
+.resume-card {
+    padding: 24px;
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    background: white;
+    overflow-wrap: anywhere;
+}
+
+.resumes-card h2 {
+    margin: 8px 0;
+}
+
+.resume-speciality  {
+    color: #2864dc;
+    font-weight: 700;
+}
+
+.resume-details {
+    margin-top: 20px;
+    color: #666;
+    line-height: 1.6;
+}
+
+.resume-empty {
+    padding: 35px;
+    border: 1px dashed #ccc;
+    border-radius: 16px;
+    text-align: center;
+}
+
+@media (max-width: 700px) {
+    .home-hero {
+        padding: 40px 24px;
+    }
+    .home-features, .resumes-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* RESUME - ОТДЕЛЬНАЯ СТРАНИЦА */
+.resume-detail-page {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.resume-back-link {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #555;
+    text-decoration: none;
+    font-weight: 600;
+}
+.resume-back-link:hover {
+    color: #3563e9;
+
+}
+.resume-detail-card {
+    padding: 32px;
+    border: 1px solid #e5e5e5;
+    border-radius: 18px;
+    background: #fff;
+    overflow-wrap: anywhere;
+}
+
+.resume-detail-card h1 {
+    margin: 10px 0;
+    font-size: 40px;
+}
+
+.resume-speciality {
+    color: #2864dc;
+}
+
+.resume-course {
+    color: #666;
+
+}
+
+.resume-detail-section {
+    margin: 30px 0;
+    padding-top: 22px;
+    border-top: 1px solid #eee;
+}
+
+.resume-detail-section h2 {
+    margin-bottom: 16px ;
+    font-size: 19px;
+}
+
+.resume-detail-section p {
+    line-height: 1.7;
+}
+
+.resume-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.resume-skill {
+    padding: 8px 12px;
+    border-radius: 8px;
+    background: #eef2ff;
+    color: #2855c5;
+    /* text-decoration: none; */
+    font-weight: 600;
+    /* transition: all 0.2s ease; */
+}
+
+.resume-empty {
+    padding: 35px;
+    border: 1px dashed #ccc;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.resume-details-button {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    background: #171717;
+    color: #fff;
+}
+
+.resume-details-button:hover {
+    background: #3563e9;
+}
+
+/* каталог резюме - форма для фильтра */
+.resume-search-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    margin: 30px 0 20px;
+    padding: 24px;
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    background: #fff;
+}
+
+.search-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.search-field label {
+    font-size: 14px;
+    font-weight: 700;
+}
+.search-field input,
+.search-field select {
+    width: 100%;
+    min-height: 44px;
+    box-sizing: border-box;
+    padding: 10px 12px;
+    border-radius: 8px;
+    background: #fff;
+    color: #171717;
+    font: inherit;
+}
+/* .search-field input:focus,
+.search-field select:focus {
+    border: 2px solid #3563e9;
+    outline: none;
+    outline-offset: 1px;
+} */
+.search-actions {
+    /* grid-column: 1 / -1; */
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.search-actions button {
+    cursor: pointer;
+    font-size: inherit;
+}
+.search-reset {
+    color: #555;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+.search-reset:hover {
+    color: #3563e9;
+}
+@media (max-width: 650px) {
+    .resume-search-form {
+        grid-template-columns: 1fr;
+        padding: 18px;
+    }
+    .search-actions {
+        /* grid-column: auto; */
+    }
+}
+
+/* ФОРМА */
 .form-container {
     max-width: 500px;
     margin: 50px auto;
